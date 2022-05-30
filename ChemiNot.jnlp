@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp href="https://CheminotJWS.etsmtl.ca/ChemiNot.jnlp" spec="1.0+">
+    <information>
+        <title>ChemiNot</title>
+        <vendor>École de technologie supérieure</vendor>
+        <homepage href=""/>
+        <description>ChemiNot</description>
+        <description kind="short">ChemiNot</description>
+    </information>
+    <update check="always"/>
+    <security>
+<all-permissions/>
+</security>
+    <resources>
+        <j2se version="1.8+"/>
+        <jar href="./lib/ChemiNotC.jar" main="true"/>
+		<jar href="./lib/jnlp.jar"/>
+</resources>
+    <application-desc main-class="cheminot.acces">
+
+	</application-desc>
+</jnlp>

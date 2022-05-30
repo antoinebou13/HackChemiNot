@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ChemiNotC">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ChemiNotC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jnlp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,22 @@
+JarIndex-Version: 1.0
+
+cheminot.jar
+META-INF
+cheminot
+ressources
+
+lib/ets8.jar
+META-INF
+ets
+ets/awt
+ets/cheminot
+ets/javelot
+ets/javelot/Securite
+ets/log
+ets/zip
+
+lib/jnlp.jar
+META-INF
+javax
+javax/jnlp
+
